@@ -1,0 +1,54 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beeneyn/banner/main/banner.png" alt="Beeny Banner" width="80%" />
+</p>
+
+<h1 align="center">Hi, I'm Beeny!</h1>
+<p align="center">
+  <b>Developer & Designer • Building the fun stuff!</b>
+</p>
+
+---
+
+### 👋 About Me
+
+- 💻 **Developer & Designer**
+- 🔤 Skilled in **HTML**, **CSS**, and currently learning **Python**
+- 🎮 Lover of unblocked games and creative web experiments
+- 🕹️ In my free time, I play video games and watch object shows
+
+---
+
+### 🚀 Featured Projects
+
+- [**Gogobeans**](https://github.com/beeneyn/landingpageforgogobeans)  
+  *A gaming platform packed with unblocked games.*
+
+- [**Dubblebean**](https://github.com/beeneyn/dubblebean)  
+  *An experimental website with a bunch of pages and fun things.*
+
+- [**Beeny Site**](https://github.com/beeneyn/beeny-site)  
+  *My personal website and latest updates.*
+
+- [**Gogocraft & Gogocraftz**](https://github.com/beeneyn/gogocraft)  
+  *More creative web projects to explore!*
+
+---
+
+### 🌐 Find Me Online
+
+<!-- Replace # with your actual profile links! -->
+[Website](#) • 
+[Twitter](#) • 
+[YouTube](#) • 
+[Replit](#) • 
+[Instagram](#) • 
+[Discord](#)
+
+> _Feel free to connect, collaborate, or just say hi!_
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKzOqJYXb2b9v9C/giphy.gif" width="150">
+</p>
