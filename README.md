@@ -13,7 +13,7 @@
 ### 👋 About Me
 
 - 💻 **Developer & Designer**
-- 🔤 Skilled in **HTML**, **CSS**, and currently learning **Python**
+- 🔤 Skilled in **HTML**, **CSS**, and currently learning **Python** and **Javascript**
 - 🎮 Lover of unblocked games and creative web experiments
 - 🕹️ In my free time, I play video games and watch object shows
 
@@ -38,12 +38,12 @@
 ### 🌐 Find Me Online
 
 <!-- Replace # with your actual profile links! -->
-[Website](#) • 
-[Twitter](#) • 
-[YouTube](#) • 
-[Replit](#) • 
-[Instagram](#) • 
-[Discord](#)
+[Website](https://www.beeny.site) • 
+[Twitter](https://www.x.com/beeny_beans) • 
+[YouTube](https://www.youtube.com/@be_eny) • 
+[Replit](https://www.replit.com/@beanyguy0) • 
+[Instagram](https://www.instagram.com/beenyguy) • 
+[Discord](https://discord.com/invite/g6jEm3CjGh)
 
 > _Feel free to connect, collaborate, or just say hi!_
 
