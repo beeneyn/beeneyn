@@ -27,11 +27,11 @@
 - [**Dubblebean**](https://github.com/beeneyn/dubblebean)  
   *An experimental website with a bunch of pages and fun things.*
 
-- [**Beeny Site**](https://github.com/beeneyn/beeny-site)  
-  *My personal website and latest updates.*
+- [**Beeny.site**](https://github.com/beeneyn/beeny-site)  
+  *My portfolio website and latest updates.*
 
-- [**Gogocraft & Gogocraftz**](https://github.com/beeneyn/gogocraft)  
-  *More creative web projects to explore!*
+- [**Gogocraft**](https://github.com/beeneyn/gogocraft)  
+  *Minecraft port for the web!*
 
 ---
 
