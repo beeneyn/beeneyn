@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/beeneyn/banner/main/banner.png" alt="Beeny Banner" width="80%" />
+  <img src="https://raw.githubusercontent.com/beeneyn/beeneyn/main/banner.png" alt="Beeny Banner" width="80%" />
 </p>
 
 <h1 align="center">Hi, I'm Beeny!</h1>
