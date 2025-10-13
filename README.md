@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/beeneyn/beeneyn/main/banner.png" alt="Beeny Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/beeneyn/beeneyn/main/newbanner.png" alt="Beeny Banner" width="100%" />
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=32&pause=1000&color=F70000&background=FF00E000&center=true&width=435&lines=Beeny;Beeneyn;Developer+%26+Designer;Building+the+fun+stuff" alt="Typing SVG" /></a>
